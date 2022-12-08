@@ -6,7 +6,7 @@ django-allauth==0.41.0
 
 
 Babel==2.8.0
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 defusedxml==0.6.0
 django-bootstrap-form==3.4
